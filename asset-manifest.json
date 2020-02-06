@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "ajmaln.github.io/game/static/css/main.0b29fabe.chunk.css",
-    "main.js": "ajmaln.github.io/game/static/js/main.088cd99b.chunk.js",
-    "main.js.map": "ajmaln.github.io/game/static/js/main.088cd99b.chunk.js.map",
-    "runtime-main.js": "ajmaln.github.io/game/static/js/runtime-main.1031a8ce.js",
-    "runtime-main.js.map": "ajmaln.github.io/game/static/js/runtime-main.1031a8ce.js.map",
-    "static/js/2.0564e04c.chunk.js": "ajmaln.github.io/game/static/js/2.0564e04c.chunk.js",
-    "static/js/2.0564e04c.chunk.js.map": "ajmaln.github.io/game/static/js/2.0564e04c.chunk.js.map",
-    "index.html": "ajmaln.github.io/game/index.html",
-    "precache-manifest.0238ce9153df06609883b1fc847547fe.js": "ajmaln.github.io/game/precache-manifest.0238ce9153df06609883b1fc847547fe.js",
-    "service-worker.js": "ajmaln.github.io/game/service-worker.js",
-    "static/css/main.0b29fabe.chunk.css.map": "ajmaln.github.io/game/static/css/main.0b29fabe.chunk.css.map",
-    "static/js/2.0564e04c.chunk.js.LICENSE.txt": "ajmaln.github.io/game/static/js/2.0564e04c.chunk.js.LICENSE.txt"
+    "main.css": "/game/static/css/main.0b29fabe.chunk.css",
+    "main.js": "/game/static/js/main.03eb8d1b.chunk.js",
+    "main.js.map": "/game/static/js/main.03eb8d1b.chunk.js.map",
+    "runtime-main.js": "/game/static/js/runtime-main.ea3d9588.js",
+    "runtime-main.js.map": "/game/static/js/runtime-main.ea3d9588.js.map",
+    "static/js/2.0564e04c.chunk.js": "/game/static/js/2.0564e04c.chunk.js",
+    "static/js/2.0564e04c.chunk.js.map": "/game/static/js/2.0564e04c.chunk.js.map",
+    "index.html": "/game/index.html",
+    "precache-manifest.5fe4148eb8918d5f87c55e340be6e605.js": "/game/precache-manifest.5fe4148eb8918d5f87c55e340be6e605.js",
+    "service-worker.js": "/game/service-worker.js",
+    "static/css/main.0b29fabe.chunk.css.map": "/game/static/css/main.0b29fabe.chunk.css.map",
+    "static/js/2.0564e04c.chunk.js.LICENSE.txt": "/game/static/js/2.0564e04c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1031a8ce.js",
+    "static/js/runtime-main.ea3d9588.js",
     "static/js/2.0564e04c.chunk.js",
     "static/css/main.0b29fabe.chunk.css",
-    "static/js/main.088cd99b.chunk.js"
+    "static/js/main.03eb8d1b.chunk.js"
   ]
 }
